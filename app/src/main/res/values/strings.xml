@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Entradas Teatro</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    //inicio sesion y registrar usuario
+    <string name="txt_email">Email</string>
+    <string name="txt_pass">Contraseña</string>
+    <string name="btnLogin">INICIAR SESIÓN</string>
+    <string name="txt_cuenta">¿No tenés cuenta?</string>
+    <string name="txt_registrarme">Registrarme</string>
+
+    //resgitrar usuario
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido</string>
+
+    //ABM obras
+    <string name="id">Id</string>
+    <string name="precio">Precio entradas</string>
+    <string name="titulo">Título de la Obra</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="crearObra">CARGAR NUEVA OBRA</string>
+    <string name="EditarObra">EDITAR OBRA</string>
+    <string name="EliminarObra">ELIMINAR OBRA</string>
+    <string name="fin">Hasta yyyy-mm-dd </string>
+    <string name="inicio">Desde yyyy-mm-dd </string>
+    <string name="buscador">Buscar Obra por titulo</string>
+    <string name="cargarImg">Subir imagen</string>
+
+    //ABM funcion
+    <string name="obra">Seleccionar obra</string>
+    <string name="fecha">Seleccionar fecha</string>
+    <string name="hora">Horario : 00:00</string>
+    <string name="btn_funcion">Cargar funciones</string>
+    <string name="btn_editar_funcion">Editar funcion</string>
+    <string name="btn_eliminar_funcion">Eliminar funcion</string>
+    <string name="check_editar">Editar hora</string>
+    <string name="check_eliminar">Eliminar</string>
+    <string name="txt_crear">Cargar Funciones</string>
+    <string name="txt_editar_eliminar">Editar o eliminar</string>
+    //spinner
+
+
+    //vista ABM
+    <string name="abm_obras">ABM Obras</string>
+    <string name="abm_funciones">ABM Funciones</string>
+    <string name="abm_usuarios">ABM usuarios</string>
+    <string name="vista_previa">vista previa cartelera</string>
+
+    //detalle de obra
+    <string name="txt_ubicacion">Cómo llegar</string>
+    <string name="btnreservar">reservar</string>
+    <string name="info_teatro">Información del Teatro</string>
+    <string name="reserva">Reservar entradas</string>
+
+
+</resources>
